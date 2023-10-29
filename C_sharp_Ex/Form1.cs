@@ -9,6 +9,8 @@ namespace C_sharp_Ex
 
         public void Btn_Show_All_Data_Type_Click(object sender, EventArgs e)
         {
+            // 이거 추가 함
+            // 20231029
             String A = "aA123!@#";
             float B = 123.434f;
             double C = 0.12345;
